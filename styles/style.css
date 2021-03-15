@@ -1,0 +1,46 @@
+#header{
+    display: flex;
+    justify-content: space-between;
+}
+#logo{
+    display: block;
+    margin-left: 4in;
+    margin-right: 2in;
+    margin-top: 2.5in;
+}
+#searchbar{
+    display: block;
+    margin-left: 2.3in;
+    margin-right: auto;
+    margin-bottom: .1in;
+    margin-top: .1in;
+}
+#undersearch{
+    display: flex;
+    justify-content: center;
+}
+#box{
+     display: flex;
+
+}
+
+#together{
+    display: block;
+    margin-top: 1.5in;
+}
+
+#first{
+    display: block;
+    margin-top: 4.1in;
+    margin-left: 0in;
+    margin-bottom: 0in;
+
+}
+#second{
+    display: block;
+    margin-right: 0in;
+    margin-left: 9.217in;
+    margin-top: -.2in;
+    margin-bottom: 0in;
+
+}
