@@ -38,9 +38,39 @@
 }
 #second{
     display: block;
-    margin-right: 0in;
-    margin-left: 9.217in;
-    margin-top: -.2in;
+    margin-right: auto;
+    margin-left: 1in;
+    margin-top: -.35in;
     margin-bottom: 0in;
 
+}
+#third{
+    display: block;
+    margin-right: auto;
+    margin-left: 1.8in;
+    margin-top: -.35in;
+    margin-bottom: 0in;
+}
+
+#fourth{
+    display: block;
+    margin-right: ;
+    margin-left: auto;
+    margin-top: -.35in;
+    margin-bottom: 0in;
+}
+#fifth{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -.35in;
+    margin-bottom: 0in;
+}
+
+#sixth{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -.35in;
+    margin-bottom: 0in;
 }
